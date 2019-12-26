@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a3bbb3b3-d7a0-47d9-986b-ad189a515829/deploy-status)](https://app.netlify.com/sites/distracted-snyder-d8c184/deploys)
+![Website](https://img.shields.io/website?down_color=red&down_message=down&style=plastic&up_color=green&up_message=up&url=https%3A%2F%2Fghettogeek.io)
 # A sample company website built with [Gatsby](https://www.gatsbyjs.org/) & [Sanity.io](https://www.sanity.io)
 
 This examples combines [Gatsby](https://www.gatsbyjs.org/) site generation with [Sanity](https://www.sanity.io) content management in a neat little company website. Read [the blog post](https://www.sanity.io/blog/get-started-with-gatsby-and-structured-content) and [see the getting started video](https://www.youtube.com/watch?v=qU4lFYp3KiQ).
